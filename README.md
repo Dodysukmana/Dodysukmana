@@ -2,8 +2,8 @@
 <h3 align="center">IoT Engineer | Embedded Systems Engineer | Flutter Developer</h3>
 
 <p align="center">
-  <a href="https://www.youtube.com/" target="_blank">YouTube</a> •
-  <a href="https://www.tiktok.com/" target="_blank">TikTok</a>
+  <a href="https://www.youtube.com/@imajinasiiot_21" target="_blank">YouTube</a> •
+  <a href="https://www.tiktok.com/@imajinasiiot_21" target="_blank">TikTok</a>
 </p>
 
 ---
